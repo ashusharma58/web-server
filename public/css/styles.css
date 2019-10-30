@@ -1,0 +1,27 @@
+body {
+    font-size: 20px
+}
+
+footer p {
+   font-size: 16px;
+   justify-content: center;
+}
+a {
+   text-decoration: none;
+   font-size: 20px;
+   padding: 5px;
+   color: darkgray;
+}
+
+input {
+   border: 1px solid #cccccc;
+   padding: 7px;
+}
+
+button {
+   cursor: pointer;
+   border: 1px solid #888888;
+   background: #888888;
+   color: #ffffff;
+   padding: 7px;
+}
